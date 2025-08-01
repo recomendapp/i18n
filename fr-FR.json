@@ -282,7 +282,10 @@
       "date_created": "date de création",
       "date_updated": "date de mise à jour",
       "number_of_likes": "nombre de likes",
-      "add_to_this_playlist": "ajouter à cette playlist"
+      "add_to_this_playlist": "ajouter à cette playlist",
+      "save_to_library": "enregistrer dans la bibliothèque",
+      "remove_from_library": "retirer de la bibliothèque",
+      "give_a_name_to_playlist": "donner un nom à la playlist"
     },
     "form": {
       "email": {
