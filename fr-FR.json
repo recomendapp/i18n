@@ -281,6 +281,7 @@
       "date_published": "date de publication",
       "date_created": "date de création",
       "date_updated": "date de mise à jour",
+      "date_added": "date d'ajout",
       "number_of_likes": "nombre de likes",
       "add_to_this_playlist": "ajouter à cette playlist",
       "save_to_library": "enregistrer dans la bibliothèque",
