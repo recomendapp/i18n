@@ -80,6 +80,7 @@
       "tv_season": "{count, plural, one {season} other {seasons}}",
       "tv_season_count": "{count, plural, one {# season} other {# seasons}}",
       "tv_season_value": "season {number}",
+      "tv_season_short": "S{number}",
       "tv_episode": "{count, plural, one {episode} other {episodes}}",
       "tv_episode_count": "{count, plural, one {# episode} other {# episodes}}",
       "tv_episode_value": "episode {number}",
@@ -241,6 +242,7 @@
       "no_media_found": "no media found",
       "unknown_action": "unknown action",
       "no_user_found": "no user found",
+      "no_tv_episodes": "no tv episodes",
       "save": "Save",
       "saved": "Saved",
       "create": "create",
@@ -289,7 +291,8 @@
       "save_to_library": "save to library",
       "remove_from_library": "remove from library",
       "give_a_name_to_playlist": "give a name to the playlist",
-      "otp": "OTP"
+      "otp": "OTP",
+      "ratings_from_followees": "ratings from followees"
     },
     "form": {
       "email": {
