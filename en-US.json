@@ -828,7 +828,7 @@
         }
       }
     },
-    "serie": {
+    "tv_series": {
       "metadata": {
         "title": "{title} ({year})",
         "description": "{title} is a serie by {creators} first aired in {year}. Synopsis: {overview}",
