@@ -76,14 +76,15 @@
       "my_review": "{count, plural, one {my review} other {my reviews}}",
       "tv_series": "{count, plural, one {serie} other {series}}",
       "film": "{count, plural, one {film} other {films}}",
-      "season": "{count, plural, one {season} other {seasons}}",
-      "season_count": "{count, plural, one {# season} other {# seasons}}",
-      "season_value": "season {number}",
-      "episode": "{count, plural, one {episode} other {episodes}}",
-      "episode_count": "{count, plural, one {# episode} other {# episodes}}",
-      "episode_value": "episode {number}",
-      "episode_short": "S{seasonNumber}E{episodeNumber}",
-      "special_episode": "{count, plural, one {special} other {specials}}",
+      "media": "{count, plural, one {media} other {media}}",
+      "tv_season": "{count, plural, one {season} other {seasons}}",
+      "tv_season_count": "{count, plural, one {# season} other {# seasons}}",
+      "tv_season_value": "season {number}",
+      "tv_episode": "{count, plural, one {episode} other {episodes}}",
+      "tv_episode_count": "{count, plural, one {# episode} other {# episodes}}",
+      "tv_episode_value": "episode {number}",
+      "tv_episode_short": "S{seasonNumber}E{episodeNumber}",
+      "tv_special_episode": "{count, plural, one {special} other {specials}}",
       "first_air_date": "first aired",
       "see_film": "see film",
       "see_serie": "see serie",
@@ -235,6 +236,9 @@
       "season_not_found": "season not found",
       "review_not_found": "review not found",
       "person_not_found": "person not found",
+      "tv_series_not_found": "tv series not found",
+      "tv_episode_not_found": "tv episode not found",
+      "tv_season_not_found": "tv season not found",
       "wrong_arguments": "wrong arguments",
       "no_media_found": "no media found",
       "unknown_action": "unknown action",
@@ -286,7 +290,8 @@
       "add_to_this_playlist": "add to this playlist",
       "save_to_library": "save to library",
       "remove_from_library": "remove from library",
-      "give_a_name_to_playlist": "give a name to the playlist"
+      "give_a_name_to_playlist": "give a name to the playlist",
+      "otp": "OTP"
     },
     "form": {
       "email": {
@@ -680,7 +685,8 @@
         }
       },
       "subscription": {
-        "label": "Subscription"
+        "label": "Subscription",
+        "description": "Manage your subscription to access premium features."
       },
       "security": {
         "label": "Security",
