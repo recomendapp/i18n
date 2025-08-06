@@ -1,6 +1,7 @@
 {
   "common": {
     "messages": {
+      "welcome": "welcome",
       "hello": "hello",
       "click_here": "click here",
       "see_more": "see more",
@@ -73,6 +74,7 @@
       "view_activity": "view activity",
       "comment_count": "{count, plural, one {# comment} other {# comments}}",
       "write_review": "write a review",
+      "new_review": "new review",
       "my_review": "{count, plural, one {my review} other {my reviews}}",
       "tv_series": "{count, plural, one {serie} other {series}}",
       "film": "{count, plural, one {film} other {films}}",
@@ -285,6 +287,7 @@
       "date_published": "date published",
       "date_created": "date created",
       "date_updated": "date updated",
+      "alphabetical": "alphabetical",
       "date_added": "date added",
       "number_of_likes": "number of likes",
       "add_to_this_playlist": "add to this playlist",
@@ -292,7 +295,10 @@
       "remove_from_library": "remove from library",
       "give_a_name_to_playlist": "give a name to the playlist",
       "otp": "OTP",
-      "ratings_from_followees": "ratings from followees"
+      "ratings_from_followees": "ratings from followees",
+      "choose_from_the_library": "choose from the library",
+      "take_a_photo": "take a photo",
+      "delete_current_image": "delete current image"
     },
     "form": {
       "email": {

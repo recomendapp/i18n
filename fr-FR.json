@@ -1,6 +1,7 @@
 {
   "common": {
     "messages": {
+      "welcome": "bienvenue",
       "hello": "bonjour",
       "click_here": "cliquez ici",
       "see_more": "voir plus",
@@ -75,6 +76,7 @@
       "view_activity": "voir l'activité",
       "comment_count": "{count, plural, one {# commentaire} other {# commentaires}}",
       "write_review": "écrire une critique",
+      "new_review": "nouvelle critique",
       "my_review": "{count, plural, one {ma critique} other {mes critiques}}",
       "tv_series": "{count, plural, one {série} other {séries}}",
       "film": "{count, plural, one {film} other {films}}",
@@ -285,6 +287,7 @@
       "date_published": "date de publication",
       "date_created": "date de création",
       "date_updated": "date de mise à jour",
+      "alphabetical": "alphabétique",
       "date_added": "date d'ajout",
       "number_of_likes": "nombre de likes",
       "add_to_this_playlist": "ajouter à cette playlist",
@@ -292,7 +295,10 @@
       "remove_from_library": "retirer de la bibliothèque",
       "give_a_name_to_playlist": "donner un nom à la playlist",
       "otp": "OTP",
-      "ratings_from_followees": "notes des suivi(e)s"
+      "ratings_from_followees": "notes des suivi(e)s",
+      "choose_from_the_library": "choisir dans la bibliothèque",
+      "take_a_photo": "prendre une photo",
+      "delete_current_image": "supprimer l'image actuelle"
     },
     "form": {
       "email": {
