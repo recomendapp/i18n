@@ -59,6 +59,8 @@
       "followee": "{count, plural, one {followee} other {followees}}",
       "see_followees": "see followees",
       "last_activities": "last activities",
+      "last_updated": "last updated",
+      "last_updated_at_date": "last updated at {date}",
       "show_all": "show all",
       "this_account_is_private": "this account is private",
       "follow_to_see_activities": "follow to see activities",
@@ -626,10 +628,11 @@
         },
         "bio": {
           "label": "Bio",
-          "description": "",
+          "description": "Tell us something about yourself, it will appear on your profile.",
           "placeholder": "Tell us about yourself",
           "form": {
-            "max_length": "The bio must not exceed 150 characters"
+            "max_length": "The bio must not exceed 150 characters",
+            "format": "The bio cannot contain empty lines or consist solely of spaces."
           }
         },
         "favorite_films": {
