@@ -166,6 +166,7 @@
       "help": "aide",
       "legal": "légal",
       "setting": "{count, plural, one {paramètre} other {paramètres}}",
+      "open_settings": "ouvrir les paramètres",
       "logout": "déconnexion",
       "to_watch": "à voir",
       "reco_by_your_friends": "reco par vos amis",
@@ -302,7 +303,8 @@
       "ratings_from_followees": "notes des suivi(e)s",
       "choose_from_the_library": "choisir dans la bibliothèque",
       "take_a_photo": "prendre une photo",
-      "delete_current_image": "supprimer l'image actuelle"
+      "delete_current_image": "supprimer l'image actuelle",
+      "verify_with_a_code": "vérifier avec un code"
     },
     "form": {
       "email": {
@@ -666,7 +668,11 @@
           "description": "Lorsque votre compte est privé, seuls les utilisateurs que vous approuvez peuvent voir vos activités"
         },
         "email": {
-          "description": "Pour modifier votre adresse email, veuillez contacter le support."
+          "description": "Un email de vérification sera envoyé à votre adresse email actuelle et à la nouvelle adresse email. Vous devez confirmer les deux pour que le changement soit effectif.",
+          "change_pending": "Un email de vérification a été envoyé le <strong>{date}</strong> à votre nouvelle adresse email <strong>{email}</strong>. Cliquez sur le lien ou entrez le code de vérification pour confirmer le changement.",
+          "confirm_email_code": {
+            "description": "Entrez le code de vérification envoyé à votre adresse email <strong>{email}</strong>."
+          }
         },
         "delete_account": {
           "label": "Supprimer le compte ?",
