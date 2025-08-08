@@ -1,10 +1,10 @@
-import { defaultLocale } from "../locales";
+import { defaultLocale, SupportedLocale } from "../locales";
 
 /**
  * Get the fallback language for a given locale
  * 
  * @param locale - The locale to get the fallback language for
- * @returns The fallback language
+ * @returns The fallback language or null if the locale is the default
  * @category i18n
  * @module getFallbackLanguage
  *
@@ -20,8 +20,9 @@ import { defaultLocale } from "../locales";
 export const getFallbackLocale = ({
 	locale
 } : {
-	locale: string
+	locale: SupportedLocale
 }) => {
+	if (locale === defaultLocale) return null;
 	switch (locale) {
 		default:
 			return defaultLocale;
