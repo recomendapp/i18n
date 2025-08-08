@@ -308,6 +308,7 @@
       "take_a_photo": "prendre une photo",
       "delete_current_image": "supprimer l'image actuelle",
       "edit_image": "modifier l'image",
+      "add_image": "ajouter une image",
       "verify_with_a_code": "vérifier avec un code"
     },
     "form": {
