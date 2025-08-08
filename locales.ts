@@ -143,4 +143,4 @@ export const supportedLocales = [
 	"zu-ZA"
 ] as const;
 
-export type Locale = (typeof supportedLocales)[number];
+export type SupportedLocale = (typeof supportedLocales)[number];
