@@ -141,4 +141,6 @@ export const supportedLocales = [
 	"zh-SG",
 	"zh-TW",
 	"zu-ZA"
-]
+] as const;
+
+export type Locale = (typeof supportedLocales)[number];
