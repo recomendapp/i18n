@@ -307,6 +307,7 @@
       "choose_from_the_library": "choisir dans la bibliothèque",
       "take_a_photo": "prendre une photo",
       "delete_current_image": "supprimer l'image actuelle",
+      "edit_image": "modifier l'image",
       "verify_with_a_code": "vérifier avec un code"
     },
     "form": {
