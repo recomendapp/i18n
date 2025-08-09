@@ -154,6 +154,7 @@
       "open_social_panel": "ouvrir le panneau social",
       "cancel_change": "{count, plural, one {annuler la modification} other {annuler les modifications}}",
       "do_you_really_want_to_cancel_change": "Voulez-vous vraiment annuler {count, plural, one {la modification} other {les modifications}} ?",
+      "continue_editing": "poursuivre les modifications",
       "confirm": "confirmer",
       "terms_of_use": "conditions d'utilisation",
       "privacy_policy": "politique de confidentialité",
@@ -313,7 +314,10 @@
       "add_image": "ajouter une image",
       "verify_with_a_code": "vérifier avec un code",
       "order": "ordre",
-      "edit_order": "modifier l'ordre"
+      "edit_order": "modifier l'ordre",
+      "done": "terminé",
+      "can_edit": "peut éditer ?",
+      "upgrade": "mettre à niveau"
     },
     "form": {
       "email": {
@@ -829,6 +833,17 @@
         "delete_confirm": {
           "title": "supprimer de la playlist",
           "description": "Êtes-vous sûr de vouloir supprimer <important>{title}</important> de votre playlist ?"
+        }
+      },
+      "form": {
+        "title": {
+          "placeholder": "Entrez le titre de la playlist"
+        },
+        "description": {
+          "placeholder": "Entrez une description de la playlist"
+        },
+        "error": {
+          "format":"La description ne peut pas contenir de lignes vides ou être composée uniquement d'espaces."
         }
       }
     },

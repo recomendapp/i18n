@@ -154,6 +154,7 @@
       "open_social_panel": "open social panel",
       "cancel_change": "{count, plural, one {cancel change} other {cancel changes}}",
       "do_you_really_want_to_cancel_change": "Do you really want to cancel {count, plural, one {the change} other {the changes}}?",
+      "continue_editing": "continue editing",
       "confirm": "confirm",
       "terms_of_use": "terms of use",
       "privacy_policy": "privacy policy",
@@ -313,7 +314,10 @@
       "add_image": "add image",
       "verify_with_a_code": "verify with a code",
       "order": "order",
-      "edit_order": "edit order"
+      "edit_order": "edit order",
+      "done": "done",
+      "can_edit": "can edit ?",
+      "upgrade": "upgrade"
     },
     "form": {
       "email": {
@@ -829,6 +833,17 @@
         "delete_confirm": {
           "title": "delete from the playlist",
           "description": "Are you sure you want to delete <important>{title}</important> from your playlist?"
+        }
+      },
+      "form": {
+        "title": {
+          "placeholder": "Enter the title of the playlist"
+        },
+        "description": {
+          "placeholder": "Enter a description of the playlist"
+        },
+        "error": {
+          "format":"The description cannot contain empty lines or consist solely of spaces."
         }
       }
     },
