@@ -311,7 +311,9 @@
       "delete_current_image": "delete current image",
       "edit_image": "edit image",
       "add_image": "add image",
-      "verify_with_a_code": "verify with a code"
+      "verify_with_a_code": "verify with a code",
+      "order": "order",
+      "edit_order": "edit order"
     },
     "form": {
       "email": {
