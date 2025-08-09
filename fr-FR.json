@@ -2,7 +2,9 @@
   "common": {
     "messages": {
       "welcome": "bienvenue",
+      "welcome_on_app": "bienvenue sur {app}",
       "hello": "bonjour",
+      "greeting_with_name": "{timeOfDay, select, night {Bonsoir, {name}} evening {Bonsoir, {name}} other {Bonjour, {name}}}",
       "click_here": "cliquez ici",
       "see_more": "voir plus",
       "library": "bibliothèque",
