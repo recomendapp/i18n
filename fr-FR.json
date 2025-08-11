@@ -319,7 +319,8 @@
       "edit_order": "modifier l'ordre",
       "done": "terminé",
       "can_edit": "peut éditer ?",
-      "upgrade": "mettre à niveau"
+      "upgrade": "mettre à niveau",
+      "no_description": "Aucune description"
     },
     "form": {
       "email": {
@@ -480,7 +481,8 @@
         "reviewed": "<name></name> a écrit une critique"
       },
       "cast_and_crew": {
-        "new_activity": "<linkPerson>{name}</linkPerson> est <important>{roles}</important> dans <linkFilm>{film}</linkFilm>"
+        "new_activity": "<linkPerson>{name}</linkPerson> est <important>{roles}</important> dans <linkFilm>{film}</linkFilm>",
+        "label": "<linkPerson>{name}</linkPerson> est <important>{roles}</important>"
       }
     },
     "auth": {

@@ -319,7 +319,8 @@
       "edit_order": "edit order",
       "done": "done",
       "can_edit": "can edit ?",
-      "upgrade": "upgrade"
+      "upgrade": "upgrade",
+      "no_description": "No description"
     },
     "form": {
       "email": {
@@ -480,7 +481,8 @@
         "reviewed": "<name></name> reviewed"
       },
       "cast_and_crew": {
-        "new_activity": "<linkPerson>{name}</linkPerson> is <important>{roles}</important> in <linkFilm>{film}</linkFilm>"
+        "new_activity": "<linkPerson>{name}</linkPerson> is <important>{roles}</important> in <linkFilm>{film}</linkFilm>",
+        "label": "<linkPerson>{name}</linkPerson> is <important>{roles}</important>"
       }
     },
     "auth": {
