@@ -7,6 +7,7 @@
       "greeting_with_name": "{timeOfDay, select, morning {Good morning, {name}} afternoon {Good afternoon, {name}} evening {Good evening, {name}} night {Good night, {name}} other {Hello, {name}}}",
       "click_here": "click here",
       "see_more": "see more",
+      "view_profile": "view profile",
       "library": "library",
       "watchlist": "watchlist",
       "heart_pick": "heart {count, plural, one {pick} other {picks}}",
@@ -320,7 +321,8 @@
       "done": "done",
       "can_edit": "can edit ?",
       "upgrade": "upgrade",
-      "no_description": "No description"
+      "no_description": "No description",
+      "close": "close"
     },
     "form": {
       "email": {

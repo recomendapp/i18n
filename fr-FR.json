@@ -7,6 +7,7 @@
       "greeting_with_name": "{timeOfDay, select, night {Bonsoir, {name}} evening {Bonsoir, {name}} other {Bonjour, {name}}}",
       "click_here": "cliquez ici",
       "see_more": "voir plus",
+      "view_profile": "voir le profil",
       "library": "bibliothèque",
       "watchlist": "watchlist",
       "heart_pick": "{count, plural, one {coup} other {coups}} de coeurs",
@@ -320,7 +321,8 @@
       "done": "terminé",
       "can_edit": "peut éditer ?",
       "upgrade": "mettre à niveau",
-      "no_description": "Aucune description"
+      "no_description": "Aucune description",
+      "close": "fermer"
     },
     "form": {
       "email": {
