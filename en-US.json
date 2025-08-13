@@ -103,6 +103,7 @@
       "see_serie": "see serie",
       "watch_film_title": "watch {title}",
       "watch_film_streaming_or_download": "Watch <important>{title}</important> on streaming or download",
+      "download": "download",
       "person": "{count, plural, one {person} other {persons}}",
       "top_result": "top result",
       "user": "{count, plural, one {user} other {users}}",

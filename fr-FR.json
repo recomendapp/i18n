@@ -105,6 +105,7 @@
       "see_serie": "voir la série",
       "watch_film_title": "voir {title}",
       "watch_film_streaming_or_download": "Regarder <important>{title}</important> en streaming ou en téléchargement légal",
+      "download": "télécharger",
       "person": "{count, plural, one {personne} other {personnes}}",
       "top_result": "meilleur resultat",
       "user": "{count, plural, one {utilisateur} other {utilisateurs}}",
