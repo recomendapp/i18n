@@ -329,7 +329,8 @@
       "can_edit": "can edit ?",
       "upgrade": "upgrade",
       "no_description": "No description",
-      "close": "close"
+      "close": "close",
+      "edit_playlist": "edit playlist"
     },
     "form": {
       "email": {
