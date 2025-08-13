@@ -842,8 +842,7 @@
         "placeholder": "rechercher dans la playlist..."
       },
       "modal": {
-        "delete_confirm": {
-          "title": "supprimer de la playlist",
+        "delete_item_confirm": {
           "description": "Êtes-vous sûr de vouloir supprimer <important>{title}</important> de votre playlist ?"
         }
       },
