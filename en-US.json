@@ -834,8 +834,6 @@
         "description": "Discover the playlist of films by @{username} on {app}."
       },
       "actions": {
-        "create": "Create a playlist",
-        "edit": "Edit the playlist",
         "delete": {
           "description": "This will permanently delete <important>{title}</important> from your playlists."
         }

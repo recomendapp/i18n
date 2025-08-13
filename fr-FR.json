@@ -834,8 +834,6 @@
         "description": "Découvrez la playlist de films de @{username} sur {app}."
       },
       "actions": {
-        "create": "Créer une playlist",
-        "edit": "Modifier la playlist",
         "delete": {
           "description": "Cela supprimera <important>{title}</important> définitivement de votre bibliothèque."
         }
