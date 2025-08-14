@@ -2,7 +2,7 @@
   "common": {
     "messages": {
       "welcome": "welcome",
-      "welcome_on_app": "welcome to {app}",
+      "welcome_to_app": "welcome to {app}",
       "hello": "hello",
       "greeting_with_name": "{timeOfDay, select, morning {Good morning, {name}} afternoon {Good afternoon, {name}} evening {Good evening, {name}} night {Good night, {name}} other {Hello, {name}}}",
       "click_here": "click here",
