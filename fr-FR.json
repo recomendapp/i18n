@@ -24,12 +24,13 @@
       "no_results_for": "Aucun résultat pour <strong>{query}</strong>",
       "no_followees": "aucun suivi(e)",
       "no_rating": "aucune note",
+      "no_activity": "aucune activité",
       "followers_ratings": "notes des followers",
       "added_by": "ajouté par",
       "sort_by": "trier par",
       "sort_order": "ordre de tri",
       "go_to_film": "accéder au film",
-      "go_to_serie": "accéder à la série",
+      "go_to_tv_series": "accéder à la série",
       "go_to_user": "accéder à l'utilisateur",
       "go_to_person": "accéder à la personne",
       "go_to_activity": "accéder à l'activité",
@@ -102,7 +103,7 @@
       "tv_special_episode": "{count, plural, one {épisode spécial} other {épisodes spéciaux}}",
       "first_air_date": "première diffusion",
       "see_film": "voir le film",
-      "see_serie": "voir la série",
+      "see_tv_series": "voir la série",
       "watch_film_title": "voir {title}",
       "watch_film_streaming_or_download": "Regarder <important>{title}</important> en streaming ou en téléchargement légal",
       "download": "télécharger",
@@ -131,6 +132,8 @@
       "likes": "likes",
       "likes_count": "nombre de likes",
       "search_media": "rechercher un média",
+      "search_film": "rechercher un film",
+      "search_tv_series": "rechercher une série",
       "search_user": "rechercher {count, plural, one {un utilisateur} other {des utilisateurs}}",
       "search_playlist": "rechercher une playlist",
       "watched_date": "date de visionnage",
@@ -211,7 +214,11 @@
       "visibility": "visibilité",
       "search_an_user": "rechercher un utilisateur",
       "select_an_item_to_add_to_playlist": "sélectionner un élément à ajouter à la playlist",
+      "select_a_film_to_add_to_playlist": "sélectionner un film à ajouter à la playlist",
+      "select_a_tv_series_to_add_to_playlist": "sélectionner une série TV à ajouter à la playlist",
       "add_one_or_more_items_to": "Ajouter un ou plusieurs éléments à <important>{title}</important>",
+      "add_one_or_more_films_to": "Ajouter un ou plusieurs films à <important>{title}</important>",
+      "add_one_or_more_tv_series_to": "Ajouter un ou plusieurs séries TV à <important>{title}</important>",
       "guests_playlist": "invités de la playlist",
       "manage_playlist_access_rights": "gérer les droits d'accès à la playlist",
       "add_guest": "ajouter {count, plural, one {un invité} other {des invités}}",
@@ -269,6 +276,7 @@
       "saved": "enregistré{gender, select, female {e} other {}}{count, plural, one {} other {s}}",
       "create": "créer",
       "film_count": "{count, plural, one {# film} other {# films}}",
+      "tv_series_count": "{count, plural, one {# série} other {# séries}}",
       "login": "se connecter",
       "signup": "s'inscrire",
       "navigation": "navigation",
@@ -331,7 +339,11 @@
       "upgrade": "mettre à niveau",
       "no_description": "Aucune description",
       "close": "fermer",
-      "edit_playlist": "modifier la playlist"
+      "edit_playlist": "modifier la playlist",
+      "universe": "univers",
+      "cannot_be_changed": "ne peut pas être changé",
+      "delete_review": "supprimer la critique",
+      "do_you_really_want_to_delete_this_review": "Voulez-vous vraiment supprimer cette critique ?"
     },
     "form": {
       "email": {
@@ -379,6 +391,9 @@
       "length": {
         "char_min": "{count, plural, one {# caractère} other {# caractères}} minimum",
         "char_max": "{count, plural, one {# caractère} other {# caractères}} maximum"
+      },
+      "format": {
+        "only_letters_numbers_spaces": "Seules les lettres, les chiffres et les espaces sont autorisés"
       },
       "error": {
         "too_many_attempts": "Trop de tentatives, veuillez réessayer plus tard",
