@@ -298,6 +298,10 @@
       "manage": "manage",
       "monthly": "monthly",
       "yearly": "yearly",
+      "day": "day",
+      "week": "week",
+      "month": "month",
+      "year": "year",
       "price": "price",
       "free": "free",
       "playlist": "{count, plural, one {playlist} other {playlists}}",
@@ -818,6 +822,10 @@
             "shared_playlists": {
               "label": "shared",
               "description": "share your playlists with other users"
+            },
+            "collaborative_playlists": {
+              "label": "collaborative",
+              "description": "create collaborative playlists with other users"
             }
           },
           "feed": {
