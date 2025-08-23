@@ -348,7 +348,9 @@
       "universe": "universe",
       "cannot_be_changed": "cannot be changed",
       "delete_review": "delete review",
-      "do_you_really_want_to_delete_this_review": "Do you really want to delete this review?"
+      "do_you_really_want_to_delete_this_review": "Do you really want to delete this review?",
+      "user_liked_playlist": "<name></name> liked a playlist",
+      "user_liked_review": "<name></name> liked a review"
     },
     "form": {
       "email": {
