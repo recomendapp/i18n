@@ -350,7 +350,8 @@
       "delete_review": "supprimer la critique",
       "do_you_really_want_to_delete_this_review": "Voulez-vous vraiment supprimer cette critique ?",
       "user_liked_playlist": "<name></name> a aimé une playlist",
-      "user_liked_review": "<name></name> a aimé une critique"
+      "user_liked_review": "<name></name> a aimé une critique",
+      "runtime": "durée"
     },
     "form": {
       "email": {
