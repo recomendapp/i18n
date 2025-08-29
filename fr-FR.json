@@ -63,8 +63,10 @@
       "follow_requests": "demandes de suivi",
       "no_follow_requests": "aucune demande de suivi",
       "follower": "{count, plural, one {follower} other {followers}}",
+      "follower_count": "{count} follower(s)",
       "see_followers": "voir les followers",
       "followee": "{count, plural, one {suivi(e)} other {suivi(e)s}}",
+      "followee_count": "{count} suivi(e)s",
       "see_followees": "voir les suivi(e)s",
       "last_activities": "dernières activités",
       "last_updated": "dernière mise à jour",
@@ -351,7 +353,8 @@
       "do_you_really_want_to_delete_this_review": "Voulez-vous vraiment supprimer cette critique ?",
       "user_liked_playlist": "<name></name> a aimé une playlist",
       "user_liked_review": "<name></name> a aimé une critique",
-      "runtime": "durée"
+      "runtime": "durée",
+      "this_user_has_no_activity": "Cet(te) utilisateur(trice) n'a pas d'activité"
     },
     "form": {
       "email": {

@@ -61,8 +61,10 @@
       "follow_requests": "follow requests",
       "no_follow_requests": "no follow requests",
       "follower": "{count, plural, one {follower} other {followers}}",
+      "follower_count": "{count} follower(s)",
       "see_followers": "see followers",
       "followee": "{count, plural, one {followee} other {followees}}",
+      "followere_count": "{count} followee(s)",
       "see_followees": "see followees",
       "last_activities": "last activities",
       "last_updated": "last updated",
@@ -351,7 +353,8 @@
       "do_you_really_want_to_delete_this_review": "Do you really want to delete this review?",
       "user_liked_playlist": "<name></name> liked a playlist",
       "user_liked_review": "<name></name> liked a review",
-      "runtime": "runtime"
+      "runtime": "runtime",
+      "this_user_has_no_activity": "This user has no activity"
     },
     "form": {
       "email": {
