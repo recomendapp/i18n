@@ -85,6 +85,8 @@
       "no_reviews": "aucune critique",
       "no_playlists": "aucune playlist",
       "no_playlists_found": "aucune playlist trouvée",
+      "no_films": "aucun film",
+      "no_tv_series": "aucune série",
       "view_activity": "voir l'activité",
       "comment_count": "{count, plural, one {# commentaire} other {# commentaires}}",
       "write_review": "écrire une critique",

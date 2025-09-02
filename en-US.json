@@ -83,6 +83,8 @@
       "no_reviews": "no reviews",
       "no_playlists": "no playlists",
       "no_playlists_found": "no playlists found",
+      "no_films": "no films",
+      "no_tv_series": "no TV series",
       "view_activity": "view activity",
       "comment_count": "{count, plural, one {# comment} other {# comments}}",
       "write_review": "write a review",
