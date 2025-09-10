@@ -1019,5 +1019,13 @@
         }
       }
     }
+  },
+  "notifications": {
+    "reco_sent_movie": {
+      "description": "<user></user> vous a reco le film <movie></movie>"
+    },
+    "reco_sent_tv_series": {
+      "description": "<user></user> vous a reco la série <tv_series></tv_series>"
+    }
   }
 }

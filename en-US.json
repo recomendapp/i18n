@@ -1019,5 +1019,13 @@
         }
       }
     }
+  },
+  "notifications": {
+    "reco_sent_movie": {
+      "description": "<user></user> reco you the movie <movie></movie>"
+    },
+    "reco_sent_tv_series": {
+      "description": "<user></user> reco you the TV series <tv_series></tv_series>"
+    }
   }
 }
