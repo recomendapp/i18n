@@ -434,6 +434,24 @@
         "description": "oups, cette page n'existe pas..."
       }
     },
+    "onboarding": {
+      "tracking": {
+        "label": "suivi",
+        "description": "Marquez vos films et séries comme vus, notez-les, ajoutez-les à vos coups de cœur ou à votre watchlist, et partagez vos critiques."
+      },
+      "recos": {
+        "label": "recos",
+        "description": "Recommandez des films et séries à vos amis et découvrez ce qu'ils vous recommandent."
+      },
+      "playlists": {
+        "label": "playlists",
+        "description": "Organisez vos films et séries en playlists, partagez-les et collaborez avec vos amis."
+      },
+      "social": {
+        "label": "social",
+        "description": "Suivez vos amis pour voir ce qu'ils regardent, aiment et recommandent."
+      }
+    },
     "showcase": {
       "features": {
         "tracking": {

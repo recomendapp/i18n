@@ -434,6 +434,24 @@
         "description": "oops, this page does not exist..."
       }
     },
+    "onboarding": {
+      "tracking": {
+        "label": "tracking",
+        "description": "Mark your films and series as seen, rate them, add them to your favorites or watchlist, and share your reviews."
+      },
+      "recos": {
+        "label": "recos",
+        "description": "Recommend films and series to your friends and discover what they recommend to you."
+      },
+      "playlists": {
+        "label": "playlists",
+        "description": "Organize your films and series into playlists, share them, and collaborate with friends."
+      },
+      "social": {
+        "label": "social",
+        "description": "Follow your friends to see what they watch, like, and recommend."
+      }
+    },
     "showcase": {
       "features": {
         "tracking": {
