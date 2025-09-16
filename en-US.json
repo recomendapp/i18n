@@ -1049,6 +1049,24 @@
     },
     "reco_sent_tv_series": {
       "description": "<user></user> reco you the TV series <tv_series></tv_series>"
+    },
+    "reco_completed_movie": {
+      "description": "<user></user> watched <movie></movie> that you recoed them"
+    },
+    "reco_completed_tv_series": {
+      "description": "<user></user> watched <tv_series></tv_series> that you recoed them"
+    },
+    "follower_created": {
+      "description": "<user></user> started following you"
+    },
+    "follower_accepted": {
+      "description": "<user></user> accepted your follow request"
+    },
+    "follower_request": {
+      "description": "<user></user> wants to follow you"
+    },
+    "friend_created": {
+      "description": "<user></user> is now your friend"
     }
   }
 }
