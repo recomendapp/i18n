@@ -21,6 +21,7 @@
       "no_results": "no results",
       "no_results_for": "No results for <strong>{query}</strong>",
       "no_followees": "no followees",
+      "no_followers": "no followers",
       "no_rating": "no rating",
       "a_rating_is_required_to_add_a_review": "a rating is required to add a review",
       "no_activity": "no activity",

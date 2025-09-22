@@ -23,6 +23,7 @@
       "no_results": "aucun résultat",
       "no_results_for": "Aucun résultat pour <strong>{query}</strong>",
       "no_followees": "aucun suivi(e)",
+      "no_followers": "aucun follower",
       "no_rating": "aucune note",
       "a_rating_is_required_to_add_a_review": "une note est requise pour ajouter une critique",
       "no_activity": "aucune activité",
