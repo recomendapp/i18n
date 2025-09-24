@@ -40,6 +40,8 @@
       "go_to_creator": "go to {count, plural, one {creator} other {creators}}",
       "show_director": "show {count, plural, one {director} other {directors}}",
       "show_creator": "show {count, plural, one {creator} other {creators}}",
+      "show_credit": "show {count, plural, one {credit} other {credits}}",
+      "credits": "credits",
       "view_recommendation": "view {count, plural, one {reco} other {recos}}",
       "view_directors": "view {count, plural, one {director} other {directors}}",
       "no_director": "no director",
