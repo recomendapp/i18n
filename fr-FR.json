@@ -367,7 +367,8 @@
       "notification_archived": "{count, plural, =1 {notification archivée} other {notifications archivées}}",
       "notification_unarchived": "{count, plural, =1 {notification désarchivée} other {notifications désarchivées}}",
       "notification_marked_as_read": "{count, plural, =1 {notification marquée comme lue} other {notifications marquées comme lues}}",
-      "notification_marked_as_unread": "{count, plural, =1 {notification marquée comme non lue} other {notifications marquées comme non lues}}"
+      "notification_marked_as_unread": "{count, plural, =1 {notification marquée comme non lue} other {notifications marquées comme non lues}}",
+      "or_continue_with": "ou continuer avec"
     },
     "form": {
       "email": {
