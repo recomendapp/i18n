@@ -7,6 +7,7 @@
       "greeting_with_name": "{timeOfDay, select, morning {Good morning, {name}} afternoon {Good afternoon, {name}} evening {Good evening, {name}} night {Good night, {name}} other {Hello, {name}}}",
       "click_here": "click here",
       "see_more": "see more",
+      "more": "more",
       "view_profile": "view profile",
       "library": "library",
       "watchlist": "watchlist",
@@ -368,7 +369,9 @@
       "notification_unarchived": "{count, plural, =1 {notification unarchived} other {notifications unarchived}}",
       "notification_marked_as_read": "{count, plural, =1 {notification marked as read} other {notifications marked as read}}",
       "notification_marked_as_unread": "{count, plural, =1 {notification marked as unread} other {notifications marked as unread}}",
-      "or_continue_with": "or continue with"
+      "or_continue_with": "or continue with",
+      "message": "{count, plural, one {message} other {messages}}",
+      "story": "{count, plural, one {story} other {stories}}"
     },
     "form": {
       "email": {
