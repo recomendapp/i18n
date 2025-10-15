@@ -190,7 +190,6 @@
       "help": "aide",
       "legal": "légal",
       "setting": "{count, plural, one {paramètre} other {paramètres}}",
-      "open_settings": "ouvrir les paramètres",
       "logout": "déconnexion",
       "to_watch": "à voir",
       "reco_by_your_friends": "reco par vos amis",
@@ -826,7 +825,9 @@
           "form": {
             "enable": "Activer les notifications push"
           },
-          "already_granted": "Une demande de notification a déjà été faite, pour la modifier, veuillez aller dans les paramètres de votre navigateur."
+          "already_granted": "Une demande de notification a déjà été faite, pour la modifier, veuillez aller dans les paramètres de votre navigateur.",
+          "no_enabled": "Activez les notifications dans les paramètres de votre appareil pour recevoir des notifications push.",
+          "open_settings": "Accéder aux paramètres de l'appareil"
         }
       },
       "data": {

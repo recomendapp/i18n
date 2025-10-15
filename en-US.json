@@ -190,7 +190,6 @@
       "help": "help",
       "legal": "legal",
       "setting": "{count, plural, one {setting} other {settings}}",
-      "open_settings": "open settings",
       "logout": "logout",
       "to_watch": "to watch",
       "reco_by_your_friends": "reco by your friends",
@@ -826,7 +825,9 @@
           "form": {
             "enable": "Enable push notifications"
           },
-          "already_granted": "A notification request has already been made, to modify it, please go to your browser settings."
+          "already_granted": "A notification request has already been made, to modify it, please go to your browser settings.",
+          "no_enabled": "Enable notifications in your device settings to receive push notifications.",
+          "open_settings": "Go to device settings"
         }
       },
       "data": {
