@@ -371,7 +371,9 @@
       "message": "{count, plural, one {message} other {messages}}",
       "story": "{count, plural, one {story} other {stories}}",
       "new_playlist": "new playlist",
-      "select_a_type": "select a type"
+      "select_a_type": "select a type",
+      "filter": "{count, plural, one {filter} other {filters}}",
+      "hide_watched": "hide watched"
     },
     "form": {
       "email": {
