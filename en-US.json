@@ -373,7 +373,9 @@
       "new_playlist": "new playlist",
       "select_a_type": "select a type",
       "filter": "{count, plural, one {filter} other {filters}}",
-      "hide_watched": "hide watched"
+      "hide_watched": "hide watched",
+      "show_me_around": "show me around",
+      "artwork_from": "Artwork from <important>{source}</important>"
     },
     "form": {
       "email": {
