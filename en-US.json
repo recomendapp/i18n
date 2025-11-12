@@ -70,7 +70,7 @@
       "follower_count": "{count} follower(s)",
       "see_followers": "see followers",
       "followee": "{count, plural, one {followee} other {followees}}",
-      "followere_count": "{count} followee(s)",
+      "followee_count": "{count} followee(s)",
       "see_followees": "see followees",
       "last_activities": "last activities",
       "last_updated": "last updated",
