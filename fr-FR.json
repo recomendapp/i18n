@@ -450,19 +450,23 @@
     "onboarding": {
       "tracking": {
         "label": "suivi",
-        "description": "Marquez vos films et séries comme vus, notez-les, ajoutez-les à vos coups de cœur ou à votre watchlist, et partagez vos critiques."
+        "description": "Découvre, note et partage tes films et séries préférés."
       },
       "recos": {
-        "label": "recos",
-        "description": "Recommandez des films et séries à vos amis et découvrez ce qu'ils vous recommandent."
+        "label": "recommandations",
+        "description": "Envoie et reçois les recos de tes amis. Tout au même endroit."
       },
       "playlists": {
         "label": "playlists",
-        "description": "Organisez vos films et séries en playlists, partagez-les et collaborez avec vos amis."
+        "description": "Organise, partage et crée des playlists à plusieurs."
       },
-      "social": {
-        "label": "social",
-        "description": "Suivez vos amis pour voir ce qu'ils regardent, aiment et recommandent."
+      "feed": {
+        "label": "fil d’actu",
+        "description": "Suis tes amis pour voir ce qu’ils regardent, aiment et notent."
+      },
+      "social_sharing": {
+        "label": "partage social",
+        "description": "Partage ce que tu aimes sur Instagram ou d’autres réseaux."
       }
     },
     "showcase": {
