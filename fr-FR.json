@@ -377,7 +377,11 @@
       "filter": "{count, plural, one {filtre} other {filtres}}",
       "hide_watched": "masquer les vus",
       "show_me_around": "faire le tour",
-      "artwork_from": "Illustration de <important>{source}</important>"
+      "artwork_from": "Illustration de <important>{source}</important>",
+      "no_active_subscription": "aucun abonnement actif",
+      "manage_subscription": "gérer l'abonnement",
+      "started_on_date": "commencé le : {date}",
+      "last_renewed_on_date": "dernier renouvellement le : {date}"
     },
     "form": {
       "email": {

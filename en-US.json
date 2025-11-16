@@ -377,7 +377,11 @@
       "filter": "{count, plural, one {filter} other {filters}}",
       "hide_watched": "hide watched",
       "show_me_around": "show me around",
-      "artwork_from": "Artwork from <important>{source}</important>"
+      "artwork_from": "Artwork from <important>{source}</important>",
+      "no_active_subscription": "no active subscription",
+      "manage_subscription": "manage subscription",
+      "started_on_date": "started on: {date}",
+      "last_renewed_on_date": "last renewed on: {date}"
     },
     "form": {
       "email": {
