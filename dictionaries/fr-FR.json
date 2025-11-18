@@ -700,9 +700,9 @@
       "contact-support": {
         "label": "Contact & Support",
         "help-center": "Trouve les réponses à tes questions existentielles dans notre <link>Help Center</link>.",
-        "technical-support": "Pour des questions techniques : <link>help@recomend.app</link>",
-        "suggest-a-feature": "Pour des suggestions : <link>ideas@recomend.app</link>",
-        "contact-us": "Pour simplement rentrer en contact avec nous : <link>contact@recomend.app</link>"
+        "technical-support": "Pour des questions techniques : <email></email>",
+        "suggest-a-feature": "Pour des suggestions : <email></email>",
+        "contact-us": "Pour simplement rentrer en contact avec nous : <email></email>"
       },
       "quote": {
         "label": "Citation",
