@@ -145,9 +145,15 @@
       "likes_count": "nombre de likes",
       "search_media": "rechercher un média",
       "search_film": "rechercher un film",
+      "start_typing_to_search_films": "commencez à taper pour rechercher des films",
       "search_tv_series": "rechercher une série",
+      "start_typing_to_search_tv_series": "commencez à taper pour rechercher des séries",
+      "search_person": "rechercher une personne",
+      "start_typing_to_search_persons": "commencez à taper pour rechercher des personnes",
       "search_user": "rechercher {count, plural, one {un utilisateur} other {des utilisateurs}}",
+      "start_typing_to_search_users": "commencez à taper pour rechercher des utilisateurs",
       "search_playlist": "rechercher une playlist",
+      "start_typing_to_search_playlists": "commencez à taper pour rechercher des playlists",
       "watched_date": "date de visionnage",
       "rating": "note",
       "create_a_playlist": "créer une playlist",
@@ -1047,7 +1053,7 @@
       }
     },
     "search": {
-      "placeholder": "Rechercher un film, une série, une personne ou un utilisateur..."
+      "placeholder": "Rechercher un film, une série, une playlist, une personne ou un utilisateur..."
     }
   },
   "components": {

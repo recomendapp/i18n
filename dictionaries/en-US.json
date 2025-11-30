@@ -143,9 +143,15 @@
       "likes_count": "likes count",
       "search_media": "search a media",
       "search_film": "search a film",
+      "start_typing_to_search_films": "start typing to search films",
       "search_tv_series": "search a TV series",
+      "start_typing_to_search_tv_series": "start typing to search TV series",
+      "search_person": "search a person",
+      "start_typing_to_search_persons": "start typing to search persons",
       "search_user": "search {count, plural, one {a user} other {users}}",
+      "start_typing_to_search_users": "start typing to search users",
       "search_playlist": "search a playlist",
+      "start_typing_to_search_playlists": "start typing to search playlists",
       "watched_date": "watched date",
       "mark_as_watched": "mark as watched",
       "remove_from_watched": "remove from watched",
@@ -1047,7 +1053,7 @@
       }
     },
     "search": {
-      "placeholder": "Search for a film, serie, person or user..."
+      "placeholder": "Search for a film, serie, playlist, person or user..."
     }
   },
   "components": {
