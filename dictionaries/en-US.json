@@ -387,7 +387,8 @@
       "no_active_subscription": "no active subscription",
       "manage_subscription": "manage subscription",
       "started_on_date": "started on: {date}",
-      "last_renewed_on_date": "last renewed on: {date}"
+      "last_renewed_on_date": "last renewed on: {date}",
+      "version_value": "version {value}"
     },
     "form": {
       "email": {
