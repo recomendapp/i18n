@@ -1,4 +1,3 @@
-/*
 export const supportedLocales = [
 	"af-ZA",
 	"ar-AE",
@@ -141,21 +140,7 @@ export const supportedLocales = [
 	"zh-TW",
 	"zu-ZA"
 ] as const;
-*/
 
-export const supportedLocales = [
-	"en-US",
-	"es-ES",
-	"fr-FR",
-	"de-DE",
-	"pt-PT",
-	"zh-CN",
-	"ja-JP",
-	"ko-KR",
-	'ru-RU',
-	"ar-SA",
-	"hi-IN",
-] as const;
 export type SupportedLocale = (typeof supportedLocales)[number];
 
 export const defaultSupportedLocale: SupportedLocale = "en-US";
