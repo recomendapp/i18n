@@ -7,6 +7,7 @@
       "greeting_with_name": "{timeOfDay, select, morning {Good morning, {name}} afternoon {Good afternoon, {name}} evening {Good evening, {name}} night {Good night, {name}} other {Hello, {name}}}",
       "click_here": "click here",
       "see_more": "see more",
+      "see_more_details": "see more details",
       "more": "more",
       "view_profile": "view profile",
       "library": "library",
@@ -388,7 +389,9 @@
       "manage_subscription": "manage subscription",
       "started_on_date": "started on: {date}",
       "last_renewed_on_date": "last renewed on: {date}",
-      "version_value": "version {value}"
+      "version_value": "version {value}",
+      "original_title": "original title",
+      "starring": "starring"
     },
     "form": {
       "email": {

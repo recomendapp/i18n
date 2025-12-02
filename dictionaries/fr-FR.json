@@ -7,6 +7,7 @@
       "greeting_with_name": "{timeOfDay, select, night {Bonsoir, {name}} evening {Bonsoir, {name}} other {Bonjour, {name}}}",
       "click_here": "cliquez ici",
       "see_more": "voir plus",
+      "see_more_details": "voir plus d'infos",
       "more": "plus",
       "view_profile": "voir le profil",
       "library": "bibliothèque",
@@ -388,7 +389,9 @@
       "manage_subscription": "gérer l'abonnement",
       "started_on_date": "commencé le : {date}",
       "last_renewed_on_date": "dernier renouvellement le : {date}",
-      "version_value": "version {value}"
+      "version_value": "version {value}",
+      "original_title": "titre original",
+      "starring": "avec"
     },
     "form": {
       "email": {
