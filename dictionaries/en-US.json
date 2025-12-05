@@ -26,6 +26,7 @@
       "no_followers": "no followers",
       "no_rating": "no rating",
       "a_rating_is_required_to_add_a_review": "a rating is required to add a review",
+      "review_cannot_be_empty": "review cannot be empty",
       "no_activity": "no activity",
       "followers_ratings": "follower's ratings",
       "added_by": "added by",
@@ -391,7 +392,9 @@
       "last_renewed_on_date": "last renewed on: {date}",
       "version_value": "version {value}",
       "original_title": "original title",
-      "starring": "starring"
+      "starring": "starring",
+      "write_your_review_here": "write your review here...",
+      "insert": "insert"
     },
     "form": {
       "email": {

@@ -28,6 +28,7 @@
       "no_followers": "aucun follower",
       "no_rating": "aucune note",
       "a_rating_is_required_to_add_a_review": "une note est requise pour ajouter une critique",
+      "review_cannot_be_empty": "la critique ne peut pas être vide",
       "no_activity": "aucune activité",
       "followers_ratings": "notes des followers",
       "added_by": "ajouté par",
@@ -391,7 +392,9 @@
       "last_renewed_on_date": "dernier renouvellement le : {date}",
       "version_value": "version {value}",
       "original_title": "titre original",
-      "starring": "avec"
+      "starring": "avec",
+      "write_your_review_here": "écrivez votre critique ici...",
+      "insert": "insérer"
     },
     "form": {
       "email": {
