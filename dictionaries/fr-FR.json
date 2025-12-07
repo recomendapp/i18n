@@ -394,7 +394,8 @@
       "original_title": "titre original",
       "starring": "avec",
       "write_your_review_here": "écrivez votre critique ici...",
-      "insert": "insérer"
+      "insert": "insérer",
+      "trailer": "trailer{count, plural, one {} other {s}}"
     },
     "form": {
       "email": {
