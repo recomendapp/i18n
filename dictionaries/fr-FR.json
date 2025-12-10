@@ -340,7 +340,7 @@
       "skip": "passer",
       "date_published": "date de publication",
       "date_created": "date de création",
-      "date_updated": "date de mise à jour",
+      "date_updated": "date de modification",
       "alphabetical": "alphabétique",
       "date_added": "date d'ajout",
       "number_of_likes": "nombre de likes",
@@ -395,7 +395,11 @@
       "starring": "avec",
       "write_your_review_here": "écrivez votre critique ici...",
       "insert": "insérer",
-      "trailer": "trailer{count, plural, one {} other {s}}"
+      "trailer": "trailer{count, plural, one {} other {s}}",
+      "list": "{count, plural, one {liste} other {listes}}",
+      "grid": "{count, plural, one {grille} other {grilles}}",
+      "order_asc": "ordre croissant",
+      "order_desc": "ordre décroissant"
     },
     "form": {
       "email": {

@@ -395,7 +395,11 @@
       "starring": "starring",
       "write_your_review_here": "write your review here...",
       "insert": "insert",
-      "trailer": "trailer{count, plural, one {} other {s}}"
+      "trailer": "trailer{count, plural, one {} other {s}}",
+      "list": "{count, plural, one {list} other {lists}}",
+      "grid": "{count, plural, one {grid} other {grids}}",
+      "order_asc": "ascending order",
+      "order_desc": "descending order"
     },
     "form": {
       "email": {
