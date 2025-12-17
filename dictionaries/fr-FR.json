@@ -88,6 +88,7 @@
       "no_cast": "aucun casting",
       "recent": "{gender, select, female {récente} other {récent}}{count, plural, one {} other {s}}",
       "popular": "{count, plural, one {populaire} other {populaires}}",
+      "popularity": "popularité",
       "no_reviews": "aucune critique",
       "no_playlists": "aucune playlist",
       "no_playlists_found": "aucune playlist trouvée",
