@@ -1,4 +1,8 @@
 {
+  "site": {
+    "tagline": "Une autre façon de découvrir le cinéma",
+    "description": "{app} est un réseau social pour les passionné(e)s de cinéma. Découvrez, partagez et explorez des films et séries avec vos ami(e)s."
+  },
   "common": {
     "messages": {
       "welcome": "bienvenue",

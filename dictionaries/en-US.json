@@ -1,4 +1,8 @@
 {
+  "site": {
+    "tagline": "An other way to discover cinema",
+    "description": "{app} is a social network for cinema lovers. Discover, share and explore movies and series with your friends."
+  },
   "common": {
     "messages": {
       "welcome": "welcome",
