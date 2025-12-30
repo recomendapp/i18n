@@ -404,7 +404,8 @@
       "list": "{count, plural, one {list} other {lists}}",
       "grid": "{count, plural, one {grid} other {grids}}",
       "order_asc": "ascending order",
-      "order_desc": "descending order"
+      "order_desc": "descending order",
+      "menu": "menu"
     },
     "form": {
       "email": {
