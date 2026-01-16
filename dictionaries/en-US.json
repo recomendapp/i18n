@@ -1061,12 +1061,82 @@
         "metadata": {
           "title": "Terms of Use",
           "description": "Read the terms of use of {app}."
+        },
+        "sections": {
+          "intro": "These Terms of Use (hereinafter \"Terms\") govern access to and use of the application {app}. The application is published by Loup (hereinafter \"the Publisher\"), based in Paris. Registration on {app} implies unreserved acceptance of these Terms.",
+          "presentation": {
+            "label": "1. Service Overview",
+            "content": "{app} is a free application allowing its users to consult information on movies, publish reviews, rate works, and create personalized lists."
+          },
+          "account": {
+            "label": "2. Account and Security",
+            "content": "Access to contribution features requires creating an account. The User is responsible for the confidentiality of their credentials. In case of fraudulent use or suspected hacking, the User must contact support immediately at: <email></email>."
+          },
+          "conduct": {
+            "label": "3. Code of Conduct",
+            "content": "The User agrees to remain courteous and respectful in their reviews and lists. Strictly prohibited are: hateful, defamatory, or racist remarks, harassment, as well as spam or unsolicited commercial promotion. The Publisher reserves the right to delete any content violating these rules and to suspend the account concerned without notice."
+          },
+          "intellectual_property": {
+            "label": "4. Intellectual Property",
+            "content": "The User remains the owner of the reviews they write. However, by publishing on {app}, they grant the Publisher a free, non-exclusive license to display, reproduce, and technically adapt this content within the application. Visual elements, code, and design of {app} are the exclusive property of the Publisher."
+          },
+          "privacy": {
+            "label": "5. Personal Data",
+            "content": "Respecting your privacy is our absolute priority. {app} does not sell, rent, or share any personal data with commercial or advertising third parties. Collected data (email, username, app activity) are used solely for the operation of the service and account management. You may exercise your rights of access, modification, or deletion (GDPR) by contacting: <email></email>."
+          },
+          "cookies": {
+            "label": "6. Cookies and Trackers",
+            "content": "{app} uses no advertising cookies and no third-party behavioral trackers. Only two types of technical cookies are used: an authentication cookie (to keep you logged in) and a language preference cookie (to remember your choice). As these cookies are strictly necessary for the service, they are exempt from prior consent."
+          },
+          "ads": {
+            "label": "7. Advertising",
+            "content": "The application is currently offered without any advertising. Should this model change, users would be informed via an update to these Terms."
+          },
+          "liability": {
+            "label": "8. Liability",
+            "content": "The Publisher strives to keep {app} accessible 24/7 but does not guarantee the absence of interruptions or bugs. Movie information comes from third-party databases; the Publisher cannot be held responsible for potential inaccuracies in these records."
+          },
+          "law": {
+            "label": "9. Applicable Law",
+            "content": "These Terms are subject to French law. In the event of a dispute that cannot be resolved amicably via hello@recomend.app, the courts of Paris shall have exclusive jurisdiction."
+          }
         }
       },
       "privacy_policy": {
         "metadata": {
           "title": "Privacy Policy",
           "description": "Read the privacy policy of {app}."
+        },
+        "sections": {
+          "intro": "Data protection is at the heart of {app}'s philosophy. This policy details the data we collect, why we collect it, and how we protect it. In short: we do not sell your data.",
+          "controller": {
+            "label": "1. Data Controller",
+            "content": "The data controller is Loup, based in Paris (France). For any privacy-related questions, you can contact: <email></email>."
+          },
+          "collected_data": {
+            "label": "2. Collected Data",
+            "content": "We only collect data strictly necessary for the application to function: your email address (for authentication), your username, and your usage data (rated movies, reviews, lists). Your passwords are stored in an encrypted (hashed) and secure manner."
+          },
+          "purpose": {
+            "label": "3. Purpose of Processing",
+            "content": "Your data is processed exclusively to: allow you to create and manage your account, display your lists and ratings, and ensure the technical operation of the service. We do not use your data for advertising profiling purposes."
+          },
+          "sharing": {
+            "label": "4. Data Sharing",
+            "content": "Your personal data is never sold, rented, or transferred to third parties. It may be hosted by our technical providers (hosting, transactional email service) who are bound by strict confidentiality and comply with GDPR."
+          },
+          "retention": {
+            "label": "5. Retention Period",
+            "content": "Your data is kept for as long as your account remains active. If you decide to delete your account, all your personal data (email, username, reviews) will be permanently erased from our databases."
+          },
+          "rights": {
+            "label": "6. Your Rights (GDPR)",
+            "content": "In accordance with regulations, you have the right to access, rectify, transfer, and erase your data. You can exercise these rights at any time directly within the application or by writing to us at: <email></email>."
+          },
+          "cookies": {
+            "label": "7. Cookies",
+            "content": "As stated in our Terms of Use, we only use essential technical cookies (session and language). No third-party advertising or tracking cookies are placed on your device."
+          }
         }
       }
     },

@@ -1059,14 +1059,84 @@
       "description": "Lisez les documents juridiques de {app}.",
       "terms_of_use": {
         "metadata": {
-          "title": "Conditions d'utilisation",
+          "title": "Conditions Générales d'Utilisation",
           "description": "Lisez les conditions d'utilisation de {app}."
+        },
+        "sections": {
+          "intro": "Les présentes Conditions Générales d'Utilisation (ci-après « CGU ») régissent l'accès et l'utilisation de l'application {app}. L'application est éditée par Loup (ci-après « l'Éditeur »), domicilié à Paris. L'inscription à {app} vaut acceptation sans réserve des présentes CGU.",
+          "presentation": {
+            "label": "1. Présentation du Service",
+            "content": "{app} est une application gratuite permettant à ses utilisateurs de consulter des informations sur des films, de publier des critiques, de noter des œuvres et de créer des listes personnalisées."
+          },
+          "account": {
+            "label": "2. Compte et Sécurité",
+            "content": "L'accès aux fonctionnalités de contribution nécessite la création d'un compte. L'Utilisateur est responsable de la confidentialité de ses identifiants. En cas d'utilisation frauduleuse ou de suspicion de piratage, l'Utilisateur doit contacter le support immédiatement à l'adresse : <email></email>."
+          },
+          "conduct": {
+            "label": "3. Règles de Conduite",
+            "content": "L'Utilisateur s'engage à rester courtois et respectueux dans ses avis et listes. Sont strictement interdits : les propos haineux, diffamatoires, racistes, le harcèlement, ainsi que le spam ou la promotion commerciale non sollicitée. L'Éditeur se réserve le droit de supprimer tout contenu contrevenant à ces règles et de suspendre le compte concerné sans préavis."
+          },
+          "intellectual_property": {
+            "label": "4. Propriété Intellectuelle",
+            "content": "L'Utilisateur reste propriétaire des avis qu'il rédige. Toutefois, en publiant sur {app}, il concède à l'Éditeur une licence gratuite et non-exclusive pour afficher, reproduire et adapter techniquement ce contenu au sein de l'application. Les éléments visuels, le code et le design de {app} sont la propriété exclusive de l'Éditeur."
+          },
+          "privacy": {
+            "label": "5. Données Personnelles",
+            "content": "Le respect de votre vie privée est notre priorité absolue. {app} ne revend, ne loue et ne partage aucune donnée personnelle à des tiers commerciaux ou publicitaires. Les données collectées (email, pseudonyme, activité sur l'app) servent uniquement au fonctionnement du service et à la gestion de votre compte. Vous pouvez exercer vos droits d'accès, de modification ou de suppression (RGPD) en contactant : <email></email>."
+          },
+          "cookies": {
+            "label": "6. Cookies et Traceurs",
+            "content": "{app} n'utilise aucun cookie publicitaire et aucun traceur de comportement tiers. Seuls deux types de cookies techniques sont utilisés : un cookie d'authentification (pour vous garder connecté) et un cookie de préférence de langue (pour mémoriser votre choix). Ces cookies étant strictement nécessaires au service, ils sont dispensés de consentement préalable."
+          },
+          "ads": {
+            "label": "7. Publicité",
+            "content": "L'application est actuellement proposée sans aucune publicité. Si ce modèle venait à évoluer, les utilisateurs en seraient informés via une mise à jour des présentes CGU."
+          },
+          "liability": {
+            "label": "8. Responsabilité",
+            "content": "L'Éditeur s'efforce de maintenir {app} accessible 24h/24, mais ne garantit pas l'absence d'interruptions ou de bugs. Les informations sur les films proviennent de bases de données tierces ; l'Éditeur ne peut être tenu responsable d'éventuelles inexactitudes dans ces fiches."
+          },
+          "law": {
+            "label": "9. Droit Applicable",
+            "content": "Les présentes CGU sont soumises au droit français. En cas de litige n'ayant pu trouver de résolution amiable via l'adresse hello@recomend.app, les tribunaux de Paris seront seuls compétents."
+          }
         }
       },
       "privacy_policy": {
         "metadata": {
-          "title": "Politique de confidentialité",
+          "title": "Politique de Confidentialité",
           "description": "Lisez la politique de confidentialité de {app}."
+        },
+        "sections": {
+          "intro": "La protection de vos données est au cœur de la philosophie de {app}. Cette politique détaille les données que nous collectons, pourquoi nous les collectons, et comment nous les protégeons. En résumé : nous ne vendons pas vos données.",
+          "controller": {
+            "label": "1. Responsable du traitement",
+            "content": "Le responsable du traitement des données est Loup, domicilié à Paris (France). Pour toute question relative à la vie privée, vous pouvez contacter : <email></email>."
+          },
+          "collected_data": {
+            "label": "2. Données collectées",
+            "content": "Nous collectons uniquement les données strictement nécessaires au fonctionnement de l'application : votre adresse email (pour l'authentification), votre pseudonyme, et vos données d'utilisation (films notés, critiques, listes). Vos mots de passe sont stockés de manière chiffrée (hachée) et sécurisée."
+          },
+          "purpose": {
+            "label": "3. Finalité du traitement",
+            "content": "Vos données sont traitées exclusivement pour : vous permettre de créer et gérer votre compte, afficher vos listes et notes, et assurer le bon fonctionnement technique du service. Nous n'utilisons pas vos données à des fins de profilage publicitaire."
+          },
+          "sharing": {
+            "label": "4. Partage des données",
+            "content": "Vos données personnelles ne sont jamais vendues, louées ou cédées à des tiers. Elles peuvent être hébergées par nos prestataires techniques (hébergeur, service d'envoi d'emails transactionnels) qui sont tenus à une stricte confidentialité et respectent le RGPD."
+          },
+          "retention": {
+            "label": "5. Durée de conservation",
+            "content": "Vos données sont conservées aussi longtemps que votre compte reste actif. Si vous décidez de supprimer votre compte, toutes vos données personnelles (email, pseudonyme, avis) seront définitivement effacées de nos bases de données."
+          },
+          "rights": {
+            "label": "6. Vos droits (RGPD)",
+            "content": "Conformément à la réglementation, vous disposez d'un droit d'accès, de rectification, de portabilité et d'effacement de vos données. Vous pouvez exercer ces droits à tout moment directement dans l'application ou en nous écrivant à : <email></email>."
+          },
+          "cookies": {
+            "label": "7. Cookies",
+            "content": "Comme indiqué dans nos CGU, nous n'utilisons que des cookies techniques essentiels (session et langue). Aucun cookie tiers de publicité ou de tracking n'est déposé sur votre appareil."
+          }
         }
       }
     },
