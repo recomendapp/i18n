@@ -931,6 +931,9 @@
               "description": "your profile in the app credits"
             }
           }
+        },
+        "success": {
+          "description": "Thank you for supporting the project and unlocking full access."
         }
       }
     },

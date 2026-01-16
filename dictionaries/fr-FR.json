@@ -931,6 +931,9 @@
               "description": "votre profil dans le générique de l'app"
             }
           }
+        },
+        "success": {
+          "description": "Merci de soutenir le projet et de débloquer l'accès complet."
         }
       }
     },
